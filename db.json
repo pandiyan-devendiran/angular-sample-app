@@ -1,0 +1,298 @@
+{
+  "products":[
+    {
+      "id" : 1,
+      "name": "Sample Product 1",
+      "code": "123",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "2",
+      "name": "Sample Product 2",
+      "code": "456h",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "3",
+      "name": "Sample Product 3",
+      "code": "abc",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "4",
+      "name": "Sample Product 4",
+      "code": "edf",
+      "status": "Inactive",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "5",
+      "name": "Sample Product 5",
+      "code": "ghi",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "6",
+      "name": "Sample Product 6",
+      "code": "678",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "7",
+      "name": "Sample Product 7",
+      "code": "hjkl",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "8",
+      "name": "Sample Product 8",
+      "code": "852",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "9",
+      "name": "Sample Product 9",
+      "code": "963",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "10",
+      "name": "Sample Product 10",
+      "code": "tgb",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "11",
+      "name": "Sample Product 11",
+      "code": "nmk",
+      "status": "Inactive",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "12",
+      "name": "Sample Product 12",
+      "code": "mkl",
+      "status": "Inctive",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "13",
+      "name": "Sample Product 13",
+      "code": "426",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "14",
+      "name": "Sample Product 14",
+      "code": "7895",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "15",
+      "name": "Sample Product 15",
+      "code": "cvb",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "16",
+      "name": "Sample Product 15",
+      "code": "zmxn",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    }
+  ],
+  "coupons":[
+    {
+      "id" : 1,
+      "name": "50% discount Code",
+      "code": "123",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "2",
+      "name": "Discount Code 2",
+      "code": "456h",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "3",
+      "name": "Discount Code 3",
+      "code": "abc",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "4",
+      "name": "Discount Code 4",
+      "code": "edf",
+      "status": "Inactive",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "5",
+      "name": "Discount Code 5",
+      "code": "ghi",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "6",
+      "name": "Discount Code 6",
+      "code": "678",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "7",
+      "name": "Discount Code 7",
+      "code": "hjkl",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "8",
+      "name": "Discount Code 8",
+      "code": "852",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "9",
+      "name": "Discount Code 9",
+      "code": "963",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "10",
+      "name": "Discount Code 10",
+      "code": "tgb",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "11",
+      "name": "Discount Code 11",
+      "code": "nmk",
+      "status": "Inactive",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "12",
+      "name": "Discount Code 12",
+      "code": "mkl",
+      "status": "Inctive",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "13",
+      "name": "Discount Code 13",
+      "code": "426",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "14",
+      "name": "Discount Code 14",
+      "code": "7895",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "15",
+      "name": "Discount Code 15",
+      "code": "cvb",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "16",
+      "name": "Discount Code 15",
+      "code": "zmxn",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    }
+  ],
+  "users":[
+    {
+      "id" : 1,
+      "name": "Sample User 1",
+      "email": "123",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "2",
+      "name": "Sample User 2",
+      "email": "456h",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "3",
+      "name": "Sample User 3",
+      "email": "abc",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "4",
+      "name": "Sample User 4",
+      "email": "edf",
+      "status": "Inactive",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "5",
+      "name": "Sample User 5",
+      "email": "ghi",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "6",
+      "name": "Sample User 6",
+      "email": "678",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "7",
+      "name": "Sample User 7",
+      "email": "hjkl",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    },
+    {
+      "id": "8",
+      "name": "Sample User 8",
+      "email": "852",
+      "status": "Active",
+      "date": "Jul 27, 2022"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
